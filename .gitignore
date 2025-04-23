@@ -1,0 +1,11 @@
+*/.vs/
+/ChatServer/ChatServer/x64/
+/ChatServer/x64/
+/ChatServer2/ChatServer2/x64/
+/ChatServer2/x64/
+/GateServer/GateServer/x64/
+/GateServer/x64/
+/StatusServer/StatusServer/x64/
+/StatusServer/x64/
+*.pb.h
+*.pb.cc
